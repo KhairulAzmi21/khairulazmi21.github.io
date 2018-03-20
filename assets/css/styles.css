@@ -26,7 +26,7 @@ h6 {
   color: #778492;
 }
 a {
-  color: #3AAA64;
+  color: #EFC303;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -34,8 +34,8 @@ a {
 }
 a:hover {
   text-decoration: underline;
-  color: #5f6b77;
-  color: #2d844e;
+  color: #232942;
+
 }
 a:focus {
   text-decoration: none;
@@ -60,16 +60,16 @@ a.btn:focus {
 }
 a.btn-cta-primary,
 .btn-cta-primary {
-  background: #54ba4e;
-  border: 1px solid #54ba4e;
+  background: #EFC303;
+  border: 1px solid #EFC303;
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
 }
 a.btn-cta-primary:hover,
 .btn-cta-primary:hover {
-  background: #49ac43;
-  border: 1px solid #49ac43;
+  background: #232942;
+  border: 1px solid #232942;
   color: #fff;
 }
 a.btn-cta-secondary,
@@ -120,6 +120,7 @@ iframe {
   background: #ffffff;
   border-top: 10px solid #EFC303;
 }
+
 .header .btn {
   margin-top: 60px;
   font-weight: bold;
@@ -158,7 +159,7 @@ iframe {
   text-align: center;
 }
 .header .profile-content .social a:hover {
-  background: #778492;
+  background: #232942;
 }
 .header .profile-content .social a .fa {
   font-size: 20px;
@@ -319,6 +320,10 @@ iframe {
 .experience .item .title .year {
   color: #999;
   font-weight: normal;
+}
+.experience .item .title .gpa {
+  color: #999;
+  font-weight: bold;
 }
 /* Git section */
 .github-graph {
