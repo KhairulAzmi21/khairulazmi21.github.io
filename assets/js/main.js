@@ -28,7 +28,7 @@ jQuery(document).ready(function($) {
     $("#rss-feeds").rss(
 
         //Change this to your own rss feeds
-        "http://feeds.feedburner.com/TechCrunch/startups",
+        "https://www.youtube.com/feeds/videos.xml?playlist_id=PLVJqkJ0KvLx5yUbWsLl6zGOFtBxQyEVKW",
 
         {
         // how many entries do you want?
