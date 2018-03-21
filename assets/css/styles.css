@@ -63,6 +63,7 @@ a.btn-cta-primary,
   background: #EFC303;
   border: 1px solid #EFC303;
   color: #fff;
+  margin-right : 4px;
   font-weight: 600;
   text-transform: uppercase;
 }
